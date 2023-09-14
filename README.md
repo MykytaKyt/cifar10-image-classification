@@ -133,7 +133,6 @@ docker exec -it <container_ID> bash
 ```
 
 Now you are inside your container and can execute commands.
-``
 ## Using the API
 
 We have provided a Flask API that allows you to perform image classification using the trained model. Follow these steps to use the API:
