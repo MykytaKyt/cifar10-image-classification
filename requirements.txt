@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+tensorflow
+keras~=2.6.0
+numpy
+matplotlib
+glob2
+scipy
+pyyaml
+flask
+opencv-python~=4.5.1

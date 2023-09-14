@@ -1,0 +1,4 @@
+train: data/dataset/train # train images
+test: data/dataset/test  # test images
+# Classes
+nc: 10  # number of classes
