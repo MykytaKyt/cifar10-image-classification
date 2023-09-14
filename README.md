@@ -27,6 +27,34 @@ Before training the model, you need to download the CIFAR-10 dataset and place i
             - class10/
 ```
 
+
+## Downloading Trained Models
+
+To use the pre-trained models for image classification, you'll need to download them and unzip them to the root of your project directory. Follow these steps:
+
+1. **Download the Trained Models**:
+   - Click [here](https://drive.google.com/file/d/1Tz6lCzBTNwdp_5-n7WkeoydXZaUgGrzf/view?usp=sharing) to access the trained model file.
+   - On the Google Drive page, click the "Download" button to download the ZIP file containing the models.
+
+2. **Unzip the Models**:
+   - Once the download is complete, unzip the downloaded ZIP file.
+   - You should now have a directory named `models` in your project's root directory. Inside this directory, you'll find the pre-trained model files.
+
+Your project directory should look like this after downloading and unzipping the models:
+
+```plaintext
+- cifar-10-image-classification/
+    - README.md
+    - flask_api.py
+    - requirements.txt
+    - models/
+        - inception.h5
+        - other_model_files.h5
+    - other_project_files.py
+    - ...
+```
+
+
 ## Training the Model
 To train the model, execute the following command:
 
