@@ -90,12 +90,15 @@ Here are the results for different models:
 ### Model Visualizations
 
 - **Xception:**
+
 ![Xception](images/AccVal_acc_LossVal_loss_xception.png)
 
 - **InceptionResNetV2:**
+
 ![InceptionResNetV2](images/AccVal_acc_LossVal_loss_inception.png)
 
 - **EfficientNetB7:**
+
 ![EfficientNetB7](images/AccVal_acc_LossVal_loss_efficientnet.png)
 
 ## Running in Docker
